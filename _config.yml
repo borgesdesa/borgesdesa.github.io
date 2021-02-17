@@ -9,15 +9,13 @@
 title: Bruno Borges
 
 # Your name to show in the footer
-author: 
+author: Bruno Borges
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Repositories:
     - Repo 1: "https://github.com"  
 
 # --- Logo --- #

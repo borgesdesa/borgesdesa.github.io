@@ -1,6 +1,5 @@
 ---
 layout: page
-title:
 subtitle: Higher Diploma in Science Computing 
 ---
 
@@ -17,4 +16,8 @@ NFQ Level 8 (75 ECTS)
 3 academic semesters
 
 **Grades**
-<p><img src="https://raw.githubusercontent.com/borgesdesa/borgesdesa.github.io/master/assets/img/grades.jpg" alt="CCT Grades" style="float:left;width:42px;height:42px;"></p>
+
+
+
+<p><img src="https://raw.githubusercontent.com/borgesdesa/borgesdesa.github.io/master/assets/img/grades.jpg" alt="CCT Grades" style="float:left;height:auto;"></p>
+

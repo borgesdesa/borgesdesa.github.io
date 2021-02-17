@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Higher Diploma in Science Computing
-subtitle: 
+subtitle: Feb 2020 to Feb 2021
 ---
 
 ### **Overall** 

@@ -19,6 +19,8 @@ NFQ Level 8 (75 ECTS)
 **Duration**
 3 academic semesters
 
+
+
 ### **Grades**
 
 ------

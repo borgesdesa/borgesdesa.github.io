@@ -27,5 +27,28 @@ NFQ Level 8 (75 ECTS)
 
 ------
 
-<img src="https://raw.githubusercontent.com/borgesdesa/borgesdesa.github.io/master/assets/img/grades.jpg" alt="CCT Grades" style="float:center;height:100%;">
+| Semester 1 Modules                | Final Percentage<br />Grade | Credits<br />Earned |
+| --------------------------------- | :-------------------------: | :-----------------: |
+| Web Development                   |             50              |          5          |
+| Databases                         |             70              |          5          |
+| Networking & Virtualisation       |             83              |          5          |
+| Operating Systems & Architecture  |             74              |          5          |
+| Software Development Fundamentals |             57              |          5          |
+
+| Semester 2 Modules           | Final Percentage<br />Grade | Credits<br />Earned |
+| ---------------------------- | :-------------------------: | :-----------------: |
+| Strategic Business IT        |             50              |         10          |
+| Professional Practice in IT  |             70              |          5          |
+| Algorithms & Constructs      |             83              |         10          |
+| Cloud Based Web Applications |             74              |          5          |
+
+| Semester 3 Modules        | Final Percentage<br />Grade | Credits<br />Earned |
+| ------------------------- | :-------------------------: | :-----------------: |
+| Guided Technology Project |             68              |         15          |
+
+| GPA Result |           Result            |
+| :--------: | :-------------------------: |
+|   63.40    | 2nd CLASS HONS<br />GRADE 1 |
+
+<a href ="https://raw.githubusercontent.com/borgesdesa/borgesdesa.github.io/master/assets/img/grades.jpg">View Document</a>
 

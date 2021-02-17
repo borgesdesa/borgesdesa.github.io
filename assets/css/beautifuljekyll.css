@@ -7,7 +7,7 @@ layout: null
 /* --- General --- */
 
 html {
-  font-size: 100%
+  font-size: 80%
 }
 
 body {
@@ -60,7 +60,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 3.25rem;
+  max-width: 6.25rem;
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;

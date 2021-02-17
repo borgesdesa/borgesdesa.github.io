@@ -27,5 +27,3 @@ NFQ Level 8 (75 ECTS)
 
 <img src="https://raw.githubusercontent.com/borgesdesa/borgesdesa.github.io/master/assets/img/grades.jpg" alt="CCT Grades" style="float:center;height:100%;">
 
-------
-

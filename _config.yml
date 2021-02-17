@@ -15,8 +15,10 @@ author: Bruno Borges
 
 navbar-links:
   About Me: "aboutme"
-  Repositories:
-    - Repo 1: "https://github.com"  
+  Resources:
+    - GitHub: "https://github.com/borgesdesa"
+    - Linkedin: "https://www.linkedin.com/in/borgessa/"
+    - Online CV: ""
 
 # --- Logo --- #
 

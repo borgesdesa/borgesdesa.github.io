@@ -23,7 +23,8 @@ NFQ Level 8 (75 ECTS)
 ###### **Duration**
 
 3 academic semesters
-< /br>
+<br>
+
 ### **Grades**
 
 ------
@@ -35,7 +36,7 @@ NFQ Level 8 (75 ECTS)
 | <font size="2">Networking & Virtualisation</font>       |             <font size="2">83</font>              |          <font size="2">5</font>          |
 | <font size="2">Operating Systems & Architecture</font>  |             <font size="2">74</font>              |          <font size="2">5</font>          |
 | <font size="2">Software Development Fundamentals</font> |             <font size="2">57</font>              |          <font size="2">5</font>          |
-</ br>
+<br>
 | <font size="2">Semester 2 Modules</font>           | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned </font> |
 | -------------------------------------------------- | :-----------------------------------------------: | :----------------------------------------: |
 | <font size="2">Strategic Business IT</font>        |             <font size="2">50</font>              |          <font size="2">10</font>          |

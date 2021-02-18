@@ -67,4 +67,4 @@ NFQ Level 8 (75 ECTS)
 | :------------------------------: | :------------------------------------------: |
 |   <font size="2">63.40</font>    | <font size="2">2nd Class Hons Grade 1</font> |
 
-<a href ="assets/content/awardtranscript/awardtranscript.pdf" target="_blank"><font size="2">View original document</font></a></p>
+<a href ="assets/content/awardtranscript/awardtranscript.pdf" target="_blank"><font size="2">View original document</font></a>

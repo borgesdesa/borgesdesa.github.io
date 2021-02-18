@@ -15,11 +15,10 @@ I then got hired by public service and started working with politics. That was w
 
 
 
-#### **Contact me**<br>
+#### **Contact me**
 
-<p><font size ="2"><i class="fas fa-envelope"></i>   <a href="mailto:borgesdesa@gmail.com">borgesdesa@gmail.com</a> <br>
-<i class="fas fa-mobile-alt"></i>  +353 89 9896153 <br><i class="fab fa-skype"></i>  <a href="skype:brunsborgs?chat">Skype me</a><br><i class="fab fa-whatsapp"></i>  Hit me up on WhatsApp using the QR code</p></font>
-
+<p><i class="fas fa-envelope"></i>   <a href="mailto:borgesdesa@gmail.com">borgesdesa@gmail.com</a> <br>
+<i class="fas fa-mobile-alt"></i>  +353 89 9896153 <br><i class="fab fa-skype"></i>  <a href="skype:brunsborgs?chat">Skype me</a><br><i class="fab fa-whatsapp"></i>  Hit me up on WhatsApp using the QR code</p><br>
 <img src="https://github.com/borgesdesa/borgesdesa.github.io/blob/master/assets/img/qrwhatsapp.png?raw=true" align="left">
 
 

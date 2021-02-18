@@ -15,7 +15,7 @@ author: Bruno Borges
 
 navbar-links:
   About Me: 
-  - About Me: "aboutme"
+  - Profile: "aboutme"
   - Contact: "contact"
   Resources:
     - Online CV: ""

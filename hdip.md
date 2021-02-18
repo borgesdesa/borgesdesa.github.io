@@ -26,11 +26,11 @@ NFQ Level 8 (75 ECTS)
 
 <br>
 
-### **Grades**
+### <p>**Grades**
 
 ------
 
-<p>
+</p>
 
 | <font size="2">Semester 1 Modules</font>                | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned</font> |
 | ------------------------------------------------------- | :-----------------------------------------------: | :---------------------------------------: |
@@ -40,7 +40,7 @@ NFQ Level 8 (75 ECTS)
 | <font size="2">Operating Systems & Architecture</font>  |             <font size="2">74</font>              |          <font size="2">5</font>          |
 | <font size="2">Software Development Fundamentals</font> |             <font size="2">57</font>              |          <font size="2">5</font>          |
 
-</p><p>
+<br>
 
 | <font size="2">Semester 2 Modules</font>           | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned </font> |
 | -------------------------------------------------- | :-----------------------------------------------: | :----------------------------------------: |
@@ -49,17 +49,17 @@ NFQ Level 8 (75 ECTS)
 | <font size="2">Algorithms & Constructs</font>      |             <font size="2">83</font>              |          <font size="2">10</font>          |
 | <font size="2">Cloud Based Web Applications</font> |             <font size="2">74</font>              |          <font size="2">5</font>           |
 
-</p><p>
+<br>
 
 | <font size="2">Semester 3 Modules</font>        | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned</font> |
 | ----------------------------------------------- | :-----------------------------------------------: | :---------------------------------------: |
 | <font size="2">Guided Technology Project</font> |             <font size="2">68</font>              |         <font size="2">15</font>          |
 
-</p><p>
+<br>
 
 | <font size="2">GPA Result</font> |           <font size="2">Result</font>            |
 | :------------------------------: | :-----------------------------------------------: |
 |   <font size="2">63.40</font>    | <font size="2">2nd CLASS HONS<br />GRADE 1</font> |
 
-<a href ="assets/content/awardtranscript/awardtranscript.pdf" target="_blank"><font size="2">View Original Document</font></a></p>
+<a href ="assets/content/awardtranscript/awardtranscript.pdf" target="_blank"><font size="2">View Original Document</font></a>
 

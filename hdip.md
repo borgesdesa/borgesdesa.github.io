@@ -28,8 +28,9 @@ NFQ Level 8 (75 ECTS)
 ### **Grades**
 
 ------
+#### Semester 1
 
-| <font size="2">Semester 1 Modules</font>                | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned</font> |
+| <font size="2">Modules</font>                | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned</font> |
 | ------------------------------------------------------- | :-----------------------------------------------: | :---------------------------------------: |
 | <font size="2"> Web Development</font>                  |             <font size="2">50</font>              |          <font size="2">5</font>          |
 | <font size="2">Databases</font>                         |             <font size="2">70</font>              |          <font size="2">5</font>          |
@@ -37,18 +38,18 @@ NFQ Level 8 (75 ECTS)
 | <font size="2">Operating Systems & Architecture</font>  |             <font size="2">74</font>              |          <font size="2">5</font>          |
 | <font size="2">Software Development Fundamentals</font> |             <font size="2">57</font>              |          <font size="2">5</font>          |
 
-<br>
+####Semester 2
 
-| <font size="2">Semester 2 Modules</font>           | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned </font> |
+| <font size="2">Modules</font>           | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned </font> |
 | -------------------------------------------------- | :-----------------------------------------------: | :----------------------------------------: |
 | <font size="2">Strategic Business IT</font>        |             <font size="2">50</font>              |          <font size="2">10</font>          |
 | <font size="2">Professional Practice in IT</font>  |             <font size="2">70</font>              |          <font size="2">5</font>           |
 | <font size="2">Algorithms & Constructs</font>      |             <font size="2">83</font>              |          <font size="2">10</font>          |
 | <font size="2">Cloud Based Web Applications</font> |             <font size="2">74</font>              |          <font size="2">5</font>           |
 
-<br>
+####Semester 3
 
-| <font size="2">Semester 3 Modules</font>        | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned</font> |
+| <font size="2">Modules</font>        | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned</font> |
 | ----------------------------------------------- | :-----------------------------------------------: | :---------------------------------------: |
 | <font size="2">Guided Technology Project</font> |             <font size="2">68</font>              |         <font size="2">15</font>          |
 

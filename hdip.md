@@ -51,6 +51,7 @@ NFQ Level 8 (75 ECTS)
 | <font size="2">Semester 3 Modules</font>        | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned</font> |
 | ----------------------------------------------- | :-----------------------------------------------: | :---------------------------------------: |
 | <font size="2">Guided Technology Project</font> |             <font size="2">68</font>              |         <font size="2">15</font>          |
+
 <br>
 
 | <font size="2">GPA Result</font> |         <font size="2">Result</font>         |

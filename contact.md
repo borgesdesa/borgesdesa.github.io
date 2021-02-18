@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-subtitle: You can reach me there!
+title: Contact me
+subtitle: You can reach me here!
 ---
 
 <script src="https://kit.fontawesome.com/9bce3c5b69.js" crossorigin="anonymous"></script>

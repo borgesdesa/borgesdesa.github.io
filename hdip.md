@@ -30,7 +30,7 @@ NFQ Level 8 (75 ECTS)
 
 ------
 
-<p>
+
 
 | <font size="2">Semester 1 Modules</font>                | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned</font> |
 | ------------------------------------------------------- | :-----------------------------------------------: | :---------------------------------------: |

@@ -4,7 +4,7 @@ title: About me
 subtitle: This is my journey... so far
 ---
 
-<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/9bce3c5b69.js" crossorigin="anonymous"></script>
 
 ### **Profile**
 
@@ -19,18 +19,10 @@ I then got hired by public service and started working with politics. That was w
 
 ------
 
-borgesdesa@gmail.com
-ph: +353 89 9896153
+<i class="fas fa-envelope"></i> borgesdesa@gmail.com <br>
+<i class="fas fa-mobile-alt"></i> ph: +353 89 9896153 <br><i class="fab fa-skype"></i><a href="skype:brunsborgs?chat">Skype me</a><br>**<i class="fab fa-whatsapp"></i> Also, text me on WhatsApp!**<br>
 
-```markup
-<i class="fab fa-skype"></i>
-```
-
-<a href="skype:brunsborgs?chat">Skype me</a>
-
-##### Whatsapp
-
-<img src="assets/img/qrwhatsapp.png" align="left">
+<img src="https://github.com/borgesdesa/borgesdesa.github.io/blob/master/assets/img/qrwhatsapp.png?raw=true" align="left">
 
 #### 
 

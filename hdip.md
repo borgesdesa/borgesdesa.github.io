@@ -32,34 +32,34 @@ NFQ Level 8 (75 ECTS)
 
 
 
-| Semester 1 Modules                | Final Percentage<br />Grade | Credits<br />Earned |
-| --------------------------------- | :-------------------------: | :-----------------: |
-| Web Development                   |             50              |          5          |
-| Databases                         |             70              |          5          |
-| Networking & Virtualisation       |             83              |          5          |
-| Operating Systems & Architecture  |             74              |          5          |
-| Software Development Fundamentals |             57              |          5          |
+| <font size="2">Semester 1 Modules</font>                | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned</font> |
+| ------------------------------------------------------- | :-----------------------------------------------: | :---------------------------------------: |
+| <font size="2"> Web Development</font>                  |             <font size="2">50</font>              |          <font size="2">5</font>          |
+| <font size="2">Databases</font>                         |             <font size="2">70</font>              |          <font size="2">5</font>          |
+| <font size="2">Networking & Virtualisation</font>       |             <font size="2">83</font>              |          <font size="2">5</font>          |
+| <font size="2">Operating Systems & Architecture</font>  |             <font size="2">74</font>              |          <font size="2">5</font>          |
+| <font size="2">Software Development Fundamentals</font> |             <font size="2">57</font>              |          <font size="2">5</font>          |
 
 
 
-| Semester 2 Modules           | Final Percentage<br />Grade | Credits<br />Earned |
-| ---------------------------- | :-------------------------: | :-----------------: |
-| Strategic Business IT        |             50              |         10          |
-| Professional Practice in IT  |             70              |          5          |
-| Algorithms & Constructs      |             83              |         10          |
-| Cloud Based Web Applications |             74              |          5          |
+| <font size="2">Semester 2 Modules</font>           | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned </font> |
+| -------------------------------------------------- | :-----------------------------------------------: | :----------------------------------------: |
+| <font size="2">Strategic Business IT</font>        |             <font size="2">50</font>              |          <font size="2">10</font>          |
+| <font size="2">Professional Practice in IT</font>  |             <font size="2">70</font>              |          <font size="2">5</font>           |
+| <font size="2">Algorithms & Constructs</font>      |             <font size="2">83</font>              |          <font size="2">10</font>          |
+| <font size="2">Cloud Based Web Applications</font> |             <font size="2">74</font>              |          <font size="2">5</font>           |
 
 
 
-| Semester 3 Modules        | Final Percentage<br />Grade | Credits<br />Earned |
-| ------------------------- | :-------------------------: | :-----------------: |
-| Guided Technology Project |             68              |         15          |
+| <font size="2">Semester 3 Modules</font>        | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned</font> |
+| ----------------------------------------------- | :-----------------------------------------------: | :---------------------------------------: |
+| <font size="2">Guided Technology Project</font> |             <font size="2">68</font>              |         <font size="2">15</font>          |
 
 
 
-| GPA Result |           Result            |
-| :--------: | :-------------------------: |
-|   63.40    | 2nd CLASS HONS<br />GRADE 1 |
+| <font size="2">GPA Result</font> |           <font size="2">Result</font>            |
+| :------------------------------: | :-----------------------------------------------: |
+|   <font size="2">63.40</font>    | <font size="2">2nd CLASS HONS<br />GRADE 1</font> |
 
-<a href ="https://raw.githubusercontent.com/borgesdesa/borgesdesa.github.io/master/assets/img/grades.jpg" target="_blank">View Document</a>
+<a href ="https://raw.githubusercontent.com/borgesdesa/borgesdesa.github.io/master/assets/img/grades.jpg" target="_blank">View Original Document</a>
 

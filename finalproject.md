@@ -10,6 +10,6 @@ For virtualization chapter, I set up NAT and internal Networks on virtual machin
 The data collaboration, where I make a connection between DPL and the external partner, is a topic where a different path was taken. The virtualization, network and security settings were made on Google Cloud. The software on top though, Mongo and Ubuntu, are still using open source, as requested.
 In Mongo the data can be inserted, edited and shared between DPL and their partner YAC. The connection between these two companies was done through an intranet portal made with JavaScript, specifically node.js. The code of the portal is created and operated with Vue framework.
 
-* <a href="https://drive.google.com/drive/folders/1U_LjeqTXbV_NapT6Iawiq_26C19kjGM8" target="_blank">**View Project**</a>
-* <a href="https://drive.google.com/file/d/1leTbJm4CDps0Mjsf9cJpTGbWcev1KpEZ/view?usp=sharing" target="_blank">**View Presentation**</a>
-* <a href="https://drive.google.com/file/d/13bIslURBP7wL9R2qYq0FDigLzNfKEWr7/view?usp=sharing" target="_blank">**Download Cisco Network Design**</a>
+<a href="https://drive.google.com/drive/folders/1U_LjeqTXbV_NapT6Iawiq_26C19kjGM8" target="_blank">**View Project**</a><br> 
+<a href="https://drive.google.com/file/d/1leTbJm4CDps0Mjsf9cJpTGbWcev1KpEZ/view?usp=sharing" target="_blank">**View Presentation**</a>
+<br> <a href="https://drive.google.com/file/d/13bIslURBP7wL9R2qYq0FDigLzNfKEWr7/view?usp=sharing" target="_blank">**Download Cisco Network Design**</a>

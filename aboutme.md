@@ -21,7 +21,6 @@ I then got hired by public service and started working with politics. That was w
       display: block;
       margin-left: auto;
       margin-right: auto;
-      transform: rotate(5deg);
 
     }
 </style>

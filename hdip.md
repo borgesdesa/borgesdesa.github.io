@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Higher Diploma in Science Computing
-subtitle: Feb 2020 to Feb 2021
+subtitle: CCT College Dublin
 ---
 
 ### **Overall** 
@@ -38,7 +38,7 @@ NFQ Level 8 (75 ECTS)
 | <font size="2">Operating Systems & Architecture</font>  |             <font size="2">74</font>              |          <font size="2">5</font>          |
 | <font size="2">Software Development Fundamentals</font> |             <font size="2">57</font>              |          <font size="2">5</font>          |
 
-####Semester 2
+#### Semester 2
 
 | <font size="2">Modules</font>           | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned </font> |
 | -------------------------------------------------- | :-----------------------------------------------: | :----------------------------------------: |
@@ -47,7 +47,7 @@ NFQ Level 8 (75 ECTS)
 | <font size="2">Algorithms & Constructs</font>      |             <font size="2">83</font>              |          <font size="2">10</font>          |
 | <font size="2">Cloud Based Web Applications</font> |             <font size="2">74</font>              |          <font size="2">5</font>           |
 
-####Semester 3
+#### Semester 3
 
 | <font size="2">Modules</font>        | <font size="2">Final Percentage<br />Grade</font> | <font size="2">Credits<br />Earned</font> |
 | ----------------------------------------------- | :-----------------------------------------------: | :---------------------------------------: |

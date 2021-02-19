@@ -26,6 +26,6 @@ I then got hired by public service and started working with politics. That was w
 </style>
 <h1>
 <div class="polaroid">
-    <img src="https://github.com/borgesdesa/borgesdesa.github.io/blob/master/assets/img/polaroid1.jpg?raw=true" alt="cassandra, the prettiest kitty" width="250px">
+    <img src="https://github.com/borgesdesa/borgesdesa.github.io/blob/master/assets/img/polaroid1.jpg?raw=true" alt="cassandra, the prettiest kitty" width="300px">
     </div>
 </h1>

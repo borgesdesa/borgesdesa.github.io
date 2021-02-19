@@ -4,6 +4,8 @@ title: Guided Technology Project
 subtitle: Final Assessment
 ---
 ### **Abstract** 
+------
+
 This project consists in three main themes: networking, virtualization and data collaboration.
 On the first chapter, I make a network design, establishing VLAN’s, servers, gateways, DNS, among others, in order to meet the requirements that the company expects regarding their departments and inner and outside communications. For this, the application Cisco Packet Tracer is used to emulate not only the network design but the whole configuration while providing the possibility of testing it.
 For virtualization chapter, I set up NAT and internal Networks on virtual machines created on VirtualBox. One of these virtual machines are running Zentyal for requested network services such as security.

@@ -3,13 +3,6 @@ layout: page
 title: About me
 subtitle: This is my journey... so far
 ---
-<style>
-    div.polaroid {
-      width: 250px;
-      text-align: center;
-      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    }
-</style>
 
 ### **Profile**
 
@@ -19,6 +12,22 @@ I then got hired by public service and started working with politics. That was w
 
 <br>
 
+<style>
+    .h1 {
+        vertical-align: baseline;
+        vertical-align: middle;
+    }
+    .polaroid {
+      width: 250px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+
+    }
+</style>
+<h1>
 <div class="polaroid">
-    <img src="https://github.com/borgesdesa/borgesdesa.github.io/blob/master/assets/img/polaroid1.jpg?raw=true" width="250" class="center">
+    <img src="https://github.com/borgesdesa/borgesdesa.github.io/blob/master/assets/img/polaroid1.jpg?raw=true" alt="cassandra, the prettiest kitty" width="250px">
     </div>
+</h1>

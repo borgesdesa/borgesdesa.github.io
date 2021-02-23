@@ -12,16 +12,14 @@ author: Bruno Borges
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-    About Me: 
-    - Profile: "aboutme"
-    - Contact: "contact"
+navbar-links: 
+  About Me: "aboutme"
   Online CV: ""
   GitHub: "https://github.com/borgesdesa"
   Computer Science:
     - Postgraduate Certification: "hdip"
     - Final Project: "finalproject"
-
+  Contact: "contact"
 
 # --- Logo --- #
 

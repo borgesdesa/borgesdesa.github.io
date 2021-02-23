@@ -19,8 +19,8 @@ navbar-links:
   - Contact: "contact"
   Resources:
     - Online CV: ""
-    - GitHub: "https://github.com/borgesdesa"
-    - HDip in Science Computing: "hdip"
+    - GitHub: "<a href="https://github.com/borgesdesa" target="_blank"></a>"
+    - Postgraduate in Computer Science: "hdip"
     - Final Project: "finalproject"
 
 # --- Logo --- #

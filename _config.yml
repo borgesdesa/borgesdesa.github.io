@@ -15,12 +15,12 @@ author: Bruno Borges
 navbar-links:
   Online CV: ""
   GitHub: "https://github.com/borgesdesa"
-  Postgraduate in Computer Science:
+  Postgraduate in <br>Computer Science:
     - Modules & Marks: "hdip"
     - Final Project: "finalproject"
   About Me: 
-  - Profile: "aboutme"
-  - Contact: "contact"
+    - Profile: "aboutme"
+    - Contact: "contact"
 
 # --- Logo --- #
 

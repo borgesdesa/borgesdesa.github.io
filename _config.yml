@@ -4,7 +4,6 @@
 # the initial set up you won't need to come back to this file often.
 
 # --- Required options --- #
-- jekyll-target-blank
 # Name of website
 title: Home
 
@@ -17,10 +16,10 @@ navbar-links:
   About Me: 
   - Profile: "aboutme"
   - Contact: "contact"
-  Resources:
-    - Online CV: ""
-    - GitHub: "<a href="https://github.com/borgesdesa" target="_blank"></a>"
-    - Postgraduate in Computer Science: "hdip"
+  Online CV: ""
+  GitHub: "https://github.com/borgesdesa"
+  Postgraduate in Computer Science:
+    - Modules & Marks: "hdip"
     - Final Project: "finalproject"
 
 # --- Logo --- #
